@@ -11,3 +11,5 @@
 - `dotnet add package Microsoft.Azure.DocumentDB.Core`
 - https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-use-stored-procedures-triggers-udfs#udfs
 - https://github.com/aspnet/EntityFrameworkCore/issues/15338
+
+## To-Do
